@@ -1,0 +1,36 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+#box{
+width:100%;
+}
+
+.boxleft{
+    width:30%;
+    height:700px;
+    float:left;
+    background-image: linear-gradient(0deg, rgb(58, 8, 241), rgb(159, 143, 245));
+    color:aliceblue;
+}
+
+}
+}
+
+.boxright{
+    width:70%;
+    float:right;
+    height:700px;
+    margin-left:50px;
+    
+}
+
+.boxleft-text1{
+    padding:20px;
+}
+
+.boxright-text2{
+    padding:20px;
+    margin-left:-100px;
+}
