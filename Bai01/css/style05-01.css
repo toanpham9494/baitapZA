@@ -22,7 +22,7 @@ ul li {
 
 #header-img {
     height: 100vh;
-    background-image: url('../hero.png');
+    background-image: url('../img/hero.png');
     background-size: cover;
     position:relative;
 }
